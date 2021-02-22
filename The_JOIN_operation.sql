@@ -1,5 +1,5 @@
 /* 
-sqlzoo solutions
+sqlzoo SQL solutions
 Topic: The JOIN operation
 URL: https://sqlzoo.net/wiki/The_JOIN_operation
 Editor: Kaming Yip
